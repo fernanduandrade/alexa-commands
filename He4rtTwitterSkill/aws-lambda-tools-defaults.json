@@ -22,6 +22,6 @@
     "function-subnets"      : "",
     "function-security-groups" : "",
     "tracing-mode"             : "PassThrough",
-    "environment-variables"    : "",
+    "environment-variables"    : "\"API_KEY\"=\"goSFSXPtW4b2u33BROhpiwy0X\";\"ACCESS_TOKEN\"=\"1329025215733575681-VcIf2lMP2mWXay4ZMkQmW0KvUr8hb3\";\"API_SECRET\"=\"7jeoGWdpuHduSZJFWfSvfmbqUXA2u5ohD1xQvxFFQXkGchXX5K\";\"BEARER\"=\"AAAAAAAAAAAAAAAAAAAAAGxSkAEAAAAACGVLehuX%2F4LwgRyvaKvvHejfP5Q%3DdASbPPFWnndZfXqtS8gMmvoZV0TSgDXvFReg7LAUn6sDPSjZ4S\";\"ACCESS_TOKEN_SECRET\"=\"4BXIHopnj4q2AfoonoXaxbUTkBrJJVCq10TwrqtY5SYQv\"",
     "image-tag"                : ""
 }
